@@ -1,0 +1,25 @@
+{
+  "product": {
+    "-NTOK0eBbcxvdFaZxYR3": {
+      "id": "-NTOK0eBbcxvdFaZxYR3",
+      "linkImg": "https://firebasestorage.googleapis.com/v0/b/database-01-9d367.appspot.com/o/images%2F22339?alt=media&token=db260b0c-9279-4e76-a233-68844a70b531",
+      "name": "Bàn Phím Cơ ",
+      "price": "100000",
+      "type": "Bàn Phím"
+    },
+    "-NTOK7lOJ_1kaBmg2Etc": {
+      "id": "-NTOK7lOJ_1kaBmg2Etc",
+      "linkImg": "https://firebasestorage.googleapis.com/v0/b/database-01-9d367.appspot.com/o/images%2F22340?alt=media&token=1d6763dd-14cb-4e63-b141-a4586016cd81",
+      "name": "Chuột Gaming",
+      "price": "50000",
+      "type": "chuột laptop"
+    },
+    "-NTOKERAPXDER-OHTlai": {
+      "id": "-NTOKERAPXDER-OHTlai",
+      "linkImg": "https://firebasestorage.googleapis.com/v0/b/database-01-9d367.appspot.com/o/images%2F22341?alt=media&token=283ff660-70b0-47f9-be63-a70d34589624",
+      "name": "tai nghe gaming",
+      "price": "90000",
+      "type": "headphone"
+    }
+  }
+}
